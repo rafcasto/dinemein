@@ -1,0 +1,36 @@
+[{
+    "id" : 1,
+    "continent": "Latin America",
+    "countries": [{
+            "country": "El Salvador",
+            "code":"SV"
+        },
+        {
+            "country": "Mexico",
+            "code":"MX"
+        }
+    ]
+},
+{
+    "id" : 2,
+    "continent": "Asia",
+    "countries": [{
+            "country": "Philippines",
+            "code":"PH"
+        },
+        {
+            "country": "Sri Lanka",
+            "code":"LK"
+        }
+    ]
+},
+{
+    "id" : 3,
+    "continent": "Erupe",
+    "countries": [{
+            "country": "Spain",
+            "code":"ES"
+        }
+    ]
+}
+]
